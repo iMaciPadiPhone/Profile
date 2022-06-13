@@ -1,0 +1,9 @@
+# Block iOS Update
+HOST,xp.apple.com
+HOST,mesu.apple.com
+HOST,gdmf.apple.com
+HOST,updates-http.cdn-apple.com
+HOST,updates.cdn-apple.com
+HOST,ocsp.int-x3.letsencrypt.org
+HOST,ocsp.apple.com
+HOST,world-gen.g.aaplimg.com

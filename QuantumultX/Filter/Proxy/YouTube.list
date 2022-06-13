@@ -1,0 +1,8 @@
+# YouTube
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,PROXY*
+HOST-SUFFIX,googlevideo.com
+HOST-SUFFIX,youtube.com
+HOST-SUFFIX,ytimg.com
+HOST,youtubei.googleapis.com
+HOST,yt3.ggpht.com
