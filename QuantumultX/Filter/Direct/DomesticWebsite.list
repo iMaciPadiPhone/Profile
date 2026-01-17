@@ -23,8 +23,6 @@ HOST-SUFFIX,xiami.com
 HOST-SUFFIX,xiami.net
 # > Apple
 HOST-SUFFIX,aaplimg.com
-HOST-SUFFIX,apple.co
-HOST-SUFFIX,apple.com
 HOST-SUFFIX,apple-cloudkit.com
 HOST-SUFFIX,appstore.com
 HOST-SUFFIX,cdn-apple.com
@@ -357,4 +355,5 @@ HOST-SUFFIX,zhihuishu.com
 HOST-SUFFIX,zhimg.com
 HOST-SUFFIX,zhuihd.com
 HOST,download.jetbrains.com
+
 HOST,images-cn.ssl-images-amazon.com
