@@ -1,4 +1,7 @@
 #MineProxy
+DOMAIN-SUFFIX,nba.com
+DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN,blogger.com
 DOMAIN-SUFFIX,blogspot.com
@@ -10,3 +13,7 @@ DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzous.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,3dtuman.com
+DOMAIN-SUFFIX,intercom.com
+DOMAIN,receiptcheck.quantumult.app
+DOMAIN-WILDCARD,*.teleport.cc
